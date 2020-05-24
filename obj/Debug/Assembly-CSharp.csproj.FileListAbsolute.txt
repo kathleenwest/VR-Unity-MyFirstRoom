@@ -1,0 +1,2 @@
+C:\Users\kathl\Dropbox\Unity\My VR Class Projects\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Unity\My VR Class Projects\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
